@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @realprakhararya
+- 👋 Hi, I’m @realprakhararya, this is an account created specifically with my work id
 - 👀 I’m interested in coding and automation
-- 🌱 I’m currently learning on the automation basics using my work id
+- 🌱 I’m currently learning automation basics using my work id
 - 💞️ I’m looking to collaborate on ai algorithms
 - 📫 reach at my work id prakhar1.mitmpl2022@learner.maipal.edu
 
