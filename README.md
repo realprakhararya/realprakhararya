@@ -46,10 +46,8 @@
 
 ## 🔬 Featured Projects  
 
-- 🖥 **VM Placement and Migration** → Using libvirt on KVM for automated VM provisioning on live physical servers  
-  [🔗 GitHub](https://github.com/realprakhararya/hp_greedy)  
-- 🧠 **SHL Assessment Recommender** → RAG-based recruiter assistant using LLMs  
-  [🔗 GitHub](https://github.com/realprakhararya/shl_recommend)  
+- 🖥 **VM Placement and Migration** → Using libvirt on KVM for automated VM provisioning on live physical servers  [🔗 GitHub](https://github.com/realprakhararya/hp_greedy)  
+- 🧠 **SHL Assessment Recommender** → RAG-based recruiter assistant using LLMs  [🔗 GitHub](https://github.com/realprakhararya/shl_recommend)  
 - 🖼 **Aerial Image Mapping with GANs** → Image-to-map generation pipeline  
 - 🏥 **Hospital DBMS** → PL/SQL + Java Swing application for hospital workflows  
 - 🍴 **FoodFinder** → Route-aware restaurant locator with Google Maps API  
