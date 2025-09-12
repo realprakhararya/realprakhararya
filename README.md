@@ -14,8 +14,8 @@
 📄 **Resume Preview**
 
 <p align="center">
-  <a href="https://www.dropbox.com/scl/fi/70dxssy9ytnpo0czhkwy0/2Page_PrakharArya.pdf?rlkey=f3l7skai58xhdt2aysw7h9kax&st=uc0qyqk2&dl=0">
-    <img src="https://github.com/PrakharArya-Rex/PrakharArya-Rex/assets/resume_preview.png" alt="Resume Preview" width="400"/>
+  <a href="https://www.dropbox.com/scl/fi/4jv2jq1aj0n658uctidw3/Resume_after_review.pdf?rlkey=s8sjxpgnnafd7uw8hmeq0jwwb&st=fjfgrb4k&dl=0">
+    <img src="https://github.com/PrakharArya-Rex/PrakharArya-Rex/assets/resume.png" alt="Resume Preview" width="400"/>
   </a>
 </p>
 
