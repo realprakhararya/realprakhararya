@@ -15,7 +15,7 @@
 
 <p align="center">
   <a href="https://www.dropbox.com/scl/fi/4jv2jq1aj0n658uctidw3/Resume_after_review.pdf?rlkey=s8sjxpgnnafd7uw8hmeq0jwwb&st=fjfgrb4k&dl=0">
-    <img src="https://github.com/realprakhararya/realprakhararya/resume.png" alt="Resume Preview" width="400"/>
+    <img src="https://github.com/realprakhararya/realprakhararya/blob/main/resume.png" alt="Resume Preview" width="400"/>
   </a>
 </p>
 
