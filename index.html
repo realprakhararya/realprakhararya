@@ -131,10 +131,9 @@
             width: 100%;
         }
 
-        /* Sections */
+        /* Sections - Fixed spacing */
         section {
-            min-height: 100vh;
-            padding: 20px 2rem 50px;
+            padding: 80px 2rem 40px;
             max-width: 1200px;
             margin: 0 auto;
             opacity: 0;
@@ -147,13 +146,15 @@
             transform: translateY(0);
         }
 
-        /* Hero Section */
+        /* Hero Section - Keep full height for landing */
         .hero {
+            min-height: 100vh;
             display: flex;
             align-items: center;
             justify-content: center;
             text-align: center;
             flex-direction: column;
+            padding: 100px 2rem 50px;
         }
 
         .hero-content h1 {
@@ -446,7 +447,11 @@
             }
             
             section {
-                padding: 80px 1rem 30px;
+                padding: 30px 1rem 15px;
+            }
+
+            .hero {
+                padding: 80px 1rem 15px;
             }
             
             .projects-grid {
