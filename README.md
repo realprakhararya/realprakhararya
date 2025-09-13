@@ -30,12 +30,12 @@
 ## 📈 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PrakharArya-Rex&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrakharArya-Rex&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=realprakhararya&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=realprakhararya&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="160"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PrakharArya-Rex&theme=radical" alt="GitHub Summary"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=realprakhararya&theme=radical" alt="GitHub Summary"/>
 </p>
 
 <p align="center">
