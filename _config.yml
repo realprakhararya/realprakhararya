@@ -1,0 +1,69 @@
+# Site settings
+title: Prakhar Arya | Software Engineer & AI Researcher
+description: >-
+  Final-year B.Tech (Honors) student passionate about software development, 
+  machine learning, and cloud computing. Currently researching computer vision 
+  with diffusion models, 3D CNNs, and GANs.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site
+twitter_username: 
+github_username: PrakharArya-Rex
+linkedin_username: prakhar-arya-9aa777212
+
+# Build settings
+markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
+# Exclude from processing
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+
+# Collections
+collections:
+  projects:
+    output: true
+    permalink: /:collection/:name/
+
+# Defaults
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "default"
+  - scope:
+      path: ""
+      type: "projects"
+    values:
+      layout: "project"
+
+# Custom variables
+author:
+  name: Prakhar Arya
+  email: 
+  bio: Software Engineer & AI Researcher
+  location: India
+  github: PrakharArya-Rex
+  linkedin: prakhar-arya-9aa777212
+  leetcode: prakhararya
+  orcid: 0009-0002-4961-8381
+  myanimelist: prakhargr8
+  codeforces: prakhar_gr8
+  codechef: prakhargr8
+
+# GitHub Pages compatibility
+safe: true
+incremental: false
+highlighter: rouge
+gist:
+  noscript: false
